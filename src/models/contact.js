@@ -22,7 +22,8 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.STRING
     },
     linkedId: {
-      type: DataTypes.INTEGER
+      type: DataTypes.INTEGER,
+      allowNull: true
     },
     linkPrecedence: {
       type: DataTypes.ENUM,
