@@ -176,4 +176,8 @@ git push origin feature/AmazingFeature
 
 - Dev: Priyvardhan Singh Sisodiya
 - Email: priyvardhansinghsisodiya@gmail.com
+<<<<<<< HEAD
 - Project Link: https://github.com/shreerajsingh/bitespeed-identity_reconciliation
+=======
+- Project Link: https://github.com/shreerajsingh/bitespeed-identity_reconciliation
+>>>>>>> dced1ed (Finalizing project: Code cleanup, features tested & documentation updates)
