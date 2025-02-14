@@ -5,6 +5,19 @@ A sophisticated solution for **Bitespeed's Identity Reconciliation problem** to 
 
 ---
 
+## Access Live
+
+#### POST
+- https://bitespeed-identity-reconciliation-i5j0.onrender.com/identify/
+
+#### GET
+- https://bitespeed-identity-reconciliation-i5j0.onrender.com/contacts/
+
+#### DELETE
+- https://bitespeed-identity-reconciliation-i5j0.onrender.com/identify/
+
+---
+
 ## 🌟 Core Features
 
 ### ✅ Contact Management
