@@ -8,17 +8,19 @@
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "avnadmin",
+    "password": "AVNS_hJHfJtOb5UxHP5i2s5r",
+    "database": "defaultdb",
+    "host": "mysql-22742a36-shreerajsinghsisodiya-64b8.h.aivencloud.com",
+    "port": 11143,
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "avnadmin",
+    "password": "AVNS_hJHfJtOb5UxHP5i2s5r",
+    "database": "defaultdb",
+    "host": "mysql-22742a36-shreerajsinghsisodiya-64b8.h.aivencloud.com",
+    "port": 11143,
     "dialect": "mysql"
   }
 }
